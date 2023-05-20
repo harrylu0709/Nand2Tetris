@@ -1,7 +1,13 @@
 # Nand2Tetris
-Projects for Nand2Teris Part I
+Projects for Nand2Tetris Part I
 
 Nand2Tetris website: http://nand2tetris.org/
+
+The overview of Nand2Tetris Part I
+
+![overview](https://github.com/harrylu0709/Nand2Tetris/assets/134115124/3402391e-8cd5-4171-9be8-3eb3d1b14c14)
+
+
 
 * Project 1: Boolean Logic
 
