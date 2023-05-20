@@ -1,5 +1,5 @@
 # Nand2Tetris
-All projects for Nand2Teris Part1
+All projects for Nand2Teris Part 
 
 Nand2Tetris website: http://nand2tetris.org/
 
